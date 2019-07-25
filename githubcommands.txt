@@ -1,5 +1,6 @@
  steps for uploading code on github:
 
+using git cmd
 
 1)creating README.md file inside project folder.
 2)using echo "# gpcmd" >> README.md
